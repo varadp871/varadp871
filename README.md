@@ -1,4 +1,6 @@
-### Namaste! Welcome to my profile (https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
+<h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Varad Panke <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
 <!--
 **varadp871/varadp871** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
