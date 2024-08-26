@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on DevOps and related fields<br>👯 I’m looking to collaborate on Data Science projects<br>🌱 I’m currently Pursuing M. Tech at BITS, Pilani in Data Science and learning various DevOps tools & technologies<br>💬 Ask me about anything related to CI/CD, Docker, Jenkins, Linux, K8s <br>⚡ Fun fact - Singing & listening to music helps me write good code
+🔭 I’m currently working on DevOps and related fields<br>👯 I’m looking to collaborate on ReactJs & Data Science projects<br>🌱 I’m currently Pursuing M. Tech at BITS, Pilani in Data Science and learning various DevOps tools & technologies<br>💬 Ask me about anything related to CI/CD, Docker, Jenkins, Linux, K8s <br>⚡ Fun fact - Singing & listening to music helps me write good code
 
 
 ## 🌐 Socials:
