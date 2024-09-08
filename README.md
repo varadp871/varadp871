@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
 <!--
-**varadp871/varadp871** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**varadp871/varadp871** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 Here are some ideas to get you started:
 
